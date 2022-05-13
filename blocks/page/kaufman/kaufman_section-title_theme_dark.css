@@ -1,0 +1,10 @@
+.kaufman_section-title_theme_dark {
+    width: 60%;
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 1.15;
+    margin: 0 auto;
+    text-align: center;
+    color: white;
+    z-index: 2;
+  }
